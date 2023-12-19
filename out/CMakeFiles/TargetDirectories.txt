@@ -1,0 +1,3 @@
+/home/gripulia/Desktop/asd/nick/out/CMakeFiles/main.dir
+/home/gripulia/Desktop/asd/nick/out/CMakeFiles/edit_cache.dir
+/home/gripulia/Desktop/asd/nick/out/CMakeFiles/rebuild_cache.dir
